@@ -2,4 +2,3 @@ wget https://raw.githubusercontent.com/robertreynolds2/nqh/main/nhq
 wget https://raw.githubusercontent.com/robertreynolds2/nqh/main/start
 chmod +x nhq
 chmod +x start
-./start
